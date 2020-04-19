@@ -1,0 +1,23 @@
+You just grabbed all the mail from your mailbox.   You want to go through it all, and decide what to do with each piece of mail.
+Write the pseudo code for your process of going through the mail.
+
+
+for each piece of mail...
+
+
+if JUNK mail
+   throw in trash...
+
+if BILLS
+  set mail to the side 
+  else open mail and pay BILLS now...
+
+if LETTER FROM PARENTS
+   sit down and open immediately...
+else open when you have time...
+
+If MAGAZINES
+   check for coupons
+   else put to the side for reading material
+      
+      else throw away as junk
